@@ -1,4 +1,4 @@
-### Hi there 👋
+###  人生重要的事情是确定一个伟大的目标，并决心实现它。 👋
 
 <!--
 **dzchengangh/dzchengangh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
